@@ -68,6 +68,7 @@ All icons come in 2 styles. square icon and horizon icon.
 | <img src="payment_logos/svg/tng.svg" width="80px"> | [tng.svg](payment_logos/svg/tng.svg) | [tng.png](payment_logos/png/tng.png) |
 | <img src="payment_logos/svg/ezlink.svg" width="80px"> | [ezlink.svg](payment_logos/svg/ezlink.svg) | [ezlink.png](payment_logos/png/ezlink.png) |
 | <img src="payment_logos/svg/truemoney.svg" width="80px"> | [truemoney.svg](payment_logos/svg/truemoney.svg) | [truemoney.png](payment_logos/png/truemoney.png) |
+| <img src="payment_logos/svg/dana.svg" width="80px"> | [dana.svg](payment_logos/svg/dana.svg) | [dana.png](payment_logos/png/truemoney.png) |
 | <img src="payment_logos/svg/felica_id.svg" width="80px"> | [felica_id.svg](payment_logos/svg/felica_id.svg) | [felica_id.png](payment_logos/png/felica_id.png) |
 | <img src="payment_logos/svg/felica_quickpay.svg" width="80px"> | [felica_quickpay.svg](payment_logos/svg/felica_quickpay.svg) | [felica_quickpay.png](payment_logos/png/felica_quickpay.png) |
 | <img src="payment_logos/svg/felica_transport_ic.svg" width="80px"> | [felica_transport_ic.svg](payment_logos/svg/felica_transport_ic.svg) | [felica_transport_ic.png](payment_logos/png/felica_transport_ic.png) |
