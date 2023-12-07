@@ -34,6 +34,7 @@ All icons come in 2 styles. square icon and horizon icon.
 
 | Asset | svg File Path | png File Path |
 | ----- | ---- | ---- |
+| <img src="payment_logos/svg/aeonpay.svg" width="80px"> | [aeonpay.svg](payment_logos/svg/aeonpay.svg) | [aeonpay.png](payment_logos/png/aeonpay.png) |
 | <img src="payment_logos/svg/amazonpay.svg" width="80px"> | [amazonpay.svg](payment_logos/svg/amazonpay.svg) | [amazonpay.png](payment_logos/png/amazonpay.png) |
 | <img src="payment_logos/svg/atone.svg" width="80px"> | [atone.svg](payment_logos/svg/atone.svg) | [atone.png](payment_logos/png/atone.png) |
 | <img src="payment_logos/svg/aupay.svg" width="80px"> | [aupay.svg](payment_logos/svg/aupay.svg) | [aupay.png](payment_logos/png/aupay.png) |
